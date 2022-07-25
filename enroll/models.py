@@ -1,5 +1,4 @@
 from django.db import models
-from django.forms import PasswordInput
 
 # Create your models here.
 class User(models.Model):
